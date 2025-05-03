@@ -2,9 +2,10 @@
 [![CI](https://github.com/Sleitnick/Knit/actions/workflows/ci.yaml/badge.svg)](https://github.com/Sleitnick/Knit/actions/workflows/ci.yaml)
 [![Docs](https://github.com/Sleitnick/Knit/actions/workflows/docs.yaml/badge.svg)](https://github.com/Sleitnick/Knit/actions/workflows/docs.yaml)
 
-## :warning: No Longer Maintained :warning:
+## :warning: Forked version :warning:
 
-Knit has been archived and will no longer receive updates.
+The original Knit project has been archived and is no longer maintained.
+This fork was created for personal use to ensure continued compatibility with Roblox updates.
 
 Please [read here](/ARCHIVAL.md) for more information.
 
